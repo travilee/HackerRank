@@ -1,1 +1,6 @@
 C:\Users\Student\Documents\Visual Studio 2015\Projects\HackerRank\src\ProblemSolving\bin\Debug\ProblemSolving.exe.config
+C:\Users\Student\Documents\Visual Studio 2015\Projects\HackerRank\src\ProblemSolving\bin\Debug\ProblemSolving.exe
+C:\Users\Student\Documents\Visual Studio 2015\Projects\HackerRank\src\ProblemSolving\bin\Debug\ProblemSolving.pdb
+C:\Users\Student\Documents\Visual Studio 2015\Projects\HackerRank\src\ProblemSolving\obj\Debug\ProblemSolving.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\Visual Studio 2015\Projects\HackerRank\src\ProblemSolving\obj\Debug\ProblemSolving.exe
+C:\Users\Student\Documents\Visual Studio 2015\Projects\HackerRank\src\ProblemSolving\obj\Debug\ProblemSolving.pdb
